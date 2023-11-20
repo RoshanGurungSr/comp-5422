@@ -1,0 +1,6 @@
+# Ignore jupyter cache files
+.ipynb_checkpoints/
+
+# Ignore train and test mapping files
+train.csv
+test.csv
