@@ -6,4 +6,4 @@ train.csv
 test.csv
 
 # Ignore model directory
-.models/
+models/
