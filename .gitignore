@@ -4,3 +4,6 @@
 # Ignore train and test mapping files
 train.csv
 test.csv
+
+# Ignore model directory
+.models/
